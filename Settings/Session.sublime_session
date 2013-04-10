@@ -1,0 +1,1399 @@
+{
+	"folder_history":
+	[
+		"/home/user/Projects/dittoadvertising-web",
+		"/home/user/Projects/bno_all",
+		"/home/user/my/vidler",
+		"/home/user/my/videor",
+		"/home/user/Projects/store-after"
+	],
+	"last_window_id": 24,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"disc",
+						"discount_entry"
+					],
+					[
+						"win",
+						"winning_score"
+					],
+					[
+						"discount_",
+						"discount_entry"
+					],
+					[
+						"curre",
+						"current_discount_score"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 125.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"souce",
+						"SourceTree: Open SourceTree"
+					],
+					[
+						"sour",
+						"SourceTree: Open SourceTree"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pains",
+						"Package Control: Install Package"
+					],
+					[
+						"paci",
+						"Package Control: Install Package"
+					],
+					[
+						"gipus",
+						"Git: Push"
+					],
+					[
+						"gitpu",
+						"Git: Pull"
+					],
+					[
+						"gi",
+						"Git: Commit"
+					],
+					[
+						"gia",
+						"Git: Add..."
+					],
+					[
+						"gic",
+						"Git: Commit"
+					],
+					[
+						"GIa",
+						"Git: Add..."
+					],
+					[
+						"gitpush",
+						"Git: Push"
+					],
+					[
+						"gitpul",
+						"Git: Pull"
+					],
+					[
+						"gip",
+						"Git: Push"
+					],
+					[
+						"ga",
+						"Git: Add..."
+					],
+					[
+						"gipu",
+						"Git: Pull"
+					],
+					[
+						"pai",
+						"Package Control: Install Package"
+					],
+					[
+						"PAi",
+						"Package Control: Install Package"
+					],
+					[
+						"gips",
+						"Git: Push"
+					],
+					[
+						"gc",
+						"Git: Commit"
+					],
+					[
+						"gianno",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"gad",
+						"Git: Add..."
+					],
+					[
+						"giann",
+						"Git: Toggle Annotations"
+					],
+					[
+						"gitp",
+						"Git: Push"
+					],
+					[
+						"gps",
+						"Git: Push"
+					],
+					[
+						"gs",
+						"Git: Status"
+					],
+					[
+						"gis",
+						"Git: Status"
+					],
+					[
+						"gico",
+						"Git: Commit"
+					],
+					[
+						"gitad",
+						"Git: Add..."
+					],
+					[
+						"bros",
+						"Preferences: Browse Packages"
+					],
+					[
+						"bro",
+						"Preferences: Browse Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insa",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/user/Projects/bno_all/app/assets/stylesheets/admin/features.css.scss",
+				"/home/user/Projects/bno_all/app/views/admin/members/_form.html.erb",
+				"/home/user/Projects/bno_all/app/views/admin/shared/_profile_form.html.erb",
+				"/home/user/Projects/bno_all/app/views/member_area/account_settings/setting_forms/_general_settings.html.erb",
+				"/home/user/Projects/bno_all/app/views/auction_categories/parts/_fake_bids_process.html.erb",
+				"/home/user/Projects/bno_all/app/views/member_area/items/new.html.erb",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/member_area/items.css.scss",
+				"/home/user/Projects/bno_all/app/views/member_area/items/_details_form.html.erb",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/mobile/mobile_styles.css.scss",
+				"/home/user/Projects/bno_all/app/views/offline_items/show.html.erb",
+				"/home/user/Projects/bno_all/app/views/member_area/shared/_center_listing_shared.html.erb",
+				"/home/user/Projects/bno_all/app/views/auctions/show_auction_item.html.erb",
+				"/home/user/Projects/bno_all/app/views/member_area/private_cabinet/index.html.erb",
+				"/home/user/Projects/bno_all/config/locales/en.yml",
+				"/home/user/Projects/bno_all/app/models/modules/auction_item_modules/state_machine.rb",
+				"/home/user/Projects/bno_all/app/views/admin/support_tickets/index.html.erb",
+				"/home/user/Projects/bno_all/README.rdoc",
+				"/home/user/Projects/bno_all/app/views/admin/features/show.html.erb",
+				"/home/user/Projects/bno_all/coverage/assets/0.7.1/application.css",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/admin/bootstrap_and_overrides.css.less",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/admin/auction_items.css.scss",
+				"/home/user/Projects/bno_all/app/views/resolution_center/open_tickets.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_resolution_center_show_page.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_comments_partial.html.erb",
+				"/home/user/Projects/bno_all/app/views/front_comments/create.js.erb",
+				"/home/user/Projects/bno_all/app/views/resolution_center/show.js.erb",
+				"/home/user/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/user/Projects/bno_all/app/views/admin/shared/_comments_partial.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_comments_listing.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_comment_info.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_resolution_center_work_log_history.html.erb",
+				"/home/user/Projects/bno_all/.idea/encodings.xml",
+				"/home/user/Projects/bno_all/app/views/shared/_resolution_center_index.html.erb",
+				"/home/user/Projects/bno_all/app/views/resolution_center/_document_fields.html.erb",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/resolution_center.css.scss",
+				"/home/user/Projects/bno_all/app/helpers/html_wrapper_helper.rb",
+				"/home/user/Projects/bno_all/app/models/document_prototype.rb",
+				"/home/user/Projects/bno_all/app/views/admin/support_tickets/edit.html.erb",
+				"/home/user/Projects/dittoadvertising-web/app/views/players/student_ambassadors/_form.html.erb",
+				"/home/user/Projects/bno_all/app/views/admin/reports/general_statistic.html.erb",
+				"/home/user/Projects/bno_all/lib/file_size_validator.rb",
+				"/home/user/Projects/bno_all/app/uploaders/document_uploader.rb",
+				"/home/user/Projects/bno_all/app/models/support_ticket.rb",
+				"/home/user/Projects/bno_all/1.png",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/home_controller.rb",
+				"/home/user/Projects/dittoadvertising-web/app/views/admin/bulk_messages/_form.html.erb",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/admin/bulk_messages_controller.rb",
+				"/home/user/Projects/dittoadvertising-web/app/assets/javascripts/admin/bulk_messages.js.coffee",
+				"/home/user/my/videor/config/database.yml",
+				"/home/user/my/videor/Gemfile",
+				"/home/user/Projects/dittoadvertising-web/Gemfile",
+				"/home/user/Projects/dittoadvertising-web/app/models/message.rb",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/services/users_controller.rb",
+				"/home/user/Projects/dittoadvertising-web/app/models/user.rb",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/services/campaigns_controller.rb",
+				"/home/user/Projects/dittoadvertising-web/app/views/services/slot_machine/_slot_machine.json.jbuilder",
+				"/home/user/Projects/dittoadvertising-web/app/views/services/users/_user.json.jbuilder",
+				"/home/user/Projects/dittoadvertising-web/app/views/services/campaigns/enroll_into_campaign.json.jbuilder",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/services/messages_controller.rb",
+				"/home/user/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/user/noir/index.html",
+				"/home/user/Projects/labs/DSP/5/application.rb",
+				"/home/user/dsp5.rb",
+				"/home/user/noir/style.css",
+				"/home/user/twilio.rb",
+				"/media/user/ARCH_201302/application.rb",
+				"/home/user/Projects/store-after/app/controllers/orders_controller.rb",
+				"/home/user/Projects/store-after/Gemfile",
+				"/home/user/Projects/store-after/app/views/orders/show.html.erb",
+				"/home/user/Projects/store-after/app/pdfs/order_pdf.rb",
+				"/home/user/Downloads/Ditto Advertising Merchant Agreement.html",
+				"/home/user/Projects/store-after/app/controllers/application_controller.rb",
+				"/home/user/Projects/store-after/config/environment.rb",
+				"/home/user/Projects/store-after/config/application.rb",
+				"/home/user/Projects/store-after/config/routes.rb",
+				"/home/user/Projects/dittoadvertising-web/.idea/dictionaries/user.xml",
+				"/home/user/Projects/dittoadvertising-web/app/models/company.rb",
+				"/home/user/Projects/dittoadvertising-web/config/initializers/clickatell.rb",
+				"/home/user/Projects/dittoadvertising-web/config/deploy.rb",
+				"/home/user/Projects/dittoadvertising-web/Procfile",
+				"/home/user/Projects/dittoadvertising-web/app/models/slot_machine.rb",
+				"/home/user/Projects/dittoadvertising-web/app/models/slot_image.rb",
+				"/home/user/Projects/dittoadvertising-web/app/models/discount_entry.rb",
+				"/home/user/Projects/dittoadvertising-web/app/models/discount.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/user/Projects/bno_all/",
+					"/home/user/Projects/dittoadvertising-web/",
+					"/home/user/Projects/dittoadvertising-web/config/initializers,,/home/user/Projects/dittoadvertising-web/app/controllers,/home/user/Projects/dittoadvertising-web/",
+					"/home/user/Projects/dittoadvertising-web/config/initializers,,/home/user/Projects/dittoadvertising-web/app/controllers,/home/user/Projects/dittoadvertising-web/app/models",
+					"/home/user/Projects/dittoadvertising-web/config/initializers,,/home/user/Projects/dittoadvertising-web/app/controllers",
+					"/home/user/Projects/dittoadvertising-web/app",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"setTimeout",
+					"setTimeoutenable",
+					"setTimeout(enable",
+					"margin-top: 4px",
+					"margin-top: 4px;",
+					"marging-top: 4px",
+					"h4",
+					"member_area.",
+					"archive_with_refund",
+					"draft",
+					"dt",
+					"white-space:",
+					"strong",
+					".",
+					"admin_show_feature",
+					"230",
+					"dl-horizontal",
+					"close_comment_form",
+					"comment_text",
+					"$(this).parents('form').submit();",
+					"comment_text",
+					"additional_docs",
+					"errors:",
+					"error",
+					"my items page",
+					"merchant_agreement",
+					"chosen",
+					"Select Some Options",
+					"select some options",
+					"discount_id",
+					"binding.pry",
+					"next_combination",
+					"font_face",
+					"font_size",
+					".check",
+					"check",
+					"API",
+					"api",
+					"API",
+					"APP",
+					"runit",
+					"service",
+					"namespace :foreman do\n  desc 'Export the Procfile to Ubuntu upstart scripts'\n  task :export, :roles => :app do\n    run \"cd #{current_path} && #{sudo} bundle exec foreman export upstart /etc/init -a #{application} -u #{user} -l #{current_path}/log/foreman\"\n  end\n\n  desc \"Start the application services\"\n  task :start, :roles => :app do\n\n    run \"#{sudo} start #{application}\"\n  end\n\n  desc \"Stop the application services\"\n\n  task :stop, :roles => :app do\n    run \"#{sudo} stop #{application}\"\n\n  end\n\n  desc \"Restart the application services\"\n  task :restart, :roles => :app do\n\n    run \"#{sudo} start #{application} || #{sudo} restart #{application}\"\n  end\nend"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.git":
+			{
+				"height": 194.0
+			},
+			"output.vcs":
+			{
+				"height": 120.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"member_area/shared/center_listing_shared",
+						"app/views/member_area/shared/_center_listing_shared.html.erb"
+					],
+					[
+						"privatec/in",
+						"app/views/member_area/private_cabinet/index.html.erb"
+					],
+					[
+						"details_form",
+						"app/views/member_area/items/_details_form.html.erb"
+					],
+					[
+						"/member_area/items/new",
+						"app/views/member_area/items/new.html.erb"
+					],
+					[
+						"en.y",
+						"config/locales/en.yml"
+					],
+					[
+						"memar/prica/",
+						"app/views/member_area/private_cabinet/index.html.erb"
+					],
+					[
+						"pricabhtm",
+						"app/views/member_area/private_cabinet/index.html.erb"
+					],
+					[
+						"auitemht",
+						"app/views/auctions/show_auction_item.html.erb"
+					],
+					[
+						"offlineitem.htm",
+						"app/views/offline_items/show.html.erb"
+					],
+					[
+						"readme",
+						"README.rdoc"
+					],
+					[
+						"supti/in",
+						"app/views/admin/support_tickets/index.html.erb"
+					],
+					[
+						"aui/sta",
+						"app/models/modules/auction_item_modules/state_machine.rb"
+					],
+					[
+						"comment_info",
+						"app/views/shared/_comment_info.html.erb"
+					],
+					[
+						"comments_listing",
+						"app/views/shared/_comments_listing.html.erb"
+					],
+					[
+						"comments_partial",
+						"app/views/shared/_comments_partial.html.erb"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"resolution_center_work_log_history",
+						"app/views/shared/_resolution_center_work_log_history.html.erb"
+					],
+					[
+						"resolution_center_show_page",
+						"app/views/shared/_resolution_center_show_page.html.erb"
+					],
+					[
+						"rescenind",
+						"app/views/shared/_resolution_center_index.html.erb"
+					],
+					[
+						"open",
+						"app/views/resolution_center/open_tickets.html.erb"
+					],
+					[
+						"tic/ed",
+						"app/views/admin/support_tickets/edit.html.erb"
+					],
+					[
+						"doc",
+						"app/models/document_prototype.rb"
+					],
+					[
+						"uploader",
+						"app/uploaders/document_uploader.rb"
+					],
+					[
+						"ticke",
+						"app/models/support_ticket.rb"
+					],
+					[
+						"adm/genrsta",
+						"app/views/admin/reports/general_statistic.html.erb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"stuam/f",
+						"app/views/players/student_ambassadors/_form.html.erb"
+					],
+					[
+						"bulm/",
+						"app/views/admin/bulk_messages/_form.html.erb"
+					],
+					[
+						"bulmes/for",
+						"app/views/admin/bulk_messages/_form.html.erb"
+					],
+					[
+						"bul",
+						"app/controllers/admin/bulk_messages_controller.rb"
+					],
+					[
+						"_sloma",
+						"app/views/services/slot_machine/_slot_machine.json.jbuilder"
+					],
+					[
+						"_use",
+						"app/views/services/users/_user.json.jbuilder"
+					],
+					[
+						"enro",
+						"app/views/services/campaigns/enroll_into_campaign.json.jbuilder"
+					],
+					[
+						"mess",
+						"app/models/message.rb"
+					],
+					[
+						"use",
+						"app/models/user.rb"
+					],
+					[
+						"userco",
+						"app/controllers/services/users_controller.rb"
+					],
+					[
+						"mesco",
+						"app/controllers/services/messages_controller.rb"
+					],
+					[
+						"camco",
+						"app/controllers/services/campaigns_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"sermesscon",
+						"app/controllers/services/messages_controller.rb"
+					],
+					[
+						"usr",
+						"app/models/user.rb"
+					],
+					[
+						"user",
+						".idea/dictionaries/user.xml"
+					],
+					[
+						"com",
+						"app/models/company.rb"
+					],
+					[
+						"cli",
+						"config/initializers/clickatell.rb"
+					],
+					[
+						"dep",
+						"config/deploy.rb"
+					],
+					[
+						"usrb",
+						"app/models/user.rb"
+					],
+					[
+						"mes",
+						"app/models/message.rb"
+					],
+					[
+						"sm",
+						"app/models/slot_machine.rb"
+					],
+					[
+						"si",
+						"app/models/slot_image.rb"
+					],
+					[
+						"de",
+						"app/models/discount_entry.rb"
+					],
+					[
+						"disc",
+						"app/models/discount.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"disc",
+						"discount_entry"
+					],
+					[
+						"win",
+						"winning_score"
+					],
+					[
+						"discount_",
+						"discount_entry"
+					],
+					[
+						"curre",
+						"current_discount_score"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/user/Projects/bno_all/app/views/member_area/private_cabinet/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 2461,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Projects/bno_all/app/views/member_area/shared/_center_listing_shared.html.erb",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 125.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"souce",
+						"SourceTree: Open SourceTree"
+					],
+					[
+						"sour",
+						"SourceTree: Open SourceTree"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pains",
+						"Package Control: Install Package"
+					],
+					[
+						"paci",
+						"Package Control: Install Package"
+					],
+					[
+						"gipus",
+						"Git: Push"
+					],
+					[
+						"gitpu",
+						"Git: Pull"
+					],
+					[
+						"gi",
+						"Git: Commit"
+					],
+					[
+						"gia",
+						"Git: Add..."
+					],
+					[
+						"gic",
+						"Git: Commit"
+					],
+					[
+						"GIa",
+						"Git: Add..."
+					],
+					[
+						"gitpush",
+						"Git: Push"
+					],
+					[
+						"gitpul",
+						"Git: Pull"
+					],
+					[
+						"gip",
+						"Git: Push"
+					],
+					[
+						"ga",
+						"Git: Add..."
+					],
+					[
+						"gipu",
+						"Git: Pull"
+					],
+					[
+						"pai",
+						"Package Control: Install Package"
+					],
+					[
+						"PAi",
+						"Package Control: Install Package"
+					],
+					[
+						"gips",
+						"Git: Push"
+					],
+					[
+						"gc",
+						"Git: Commit"
+					],
+					[
+						"gianno",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"gad",
+						"Git: Add..."
+					],
+					[
+						"giann",
+						"Git: Toggle Annotations"
+					],
+					[
+						"gitp",
+						"Git: Push"
+					],
+					[
+						"gps",
+						"Git: Push"
+					],
+					[
+						"gs",
+						"Git: Status"
+					],
+					[
+						"gis",
+						"Git: Status"
+					],
+					[
+						"gico",
+						"Git: Commit"
+					],
+					[
+						"gitad",
+						"Git: Add..."
+					],
+					[
+						"bros",
+						"Preferences: Browse Packages"
+					],
+					[
+						"bro",
+						"Preferences: Browse Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insa",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/user/Projects/bno_all/app/assets/stylesheets/admin/features.css.scss",
+				"/home/user/Projects/bno_all/app/views/admin/members/_form.html.erb",
+				"/home/user/Projects/bno_all/app/views/admin/shared/_profile_form.html.erb",
+				"/home/user/Projects/bno_all/app/views/member_area/account_settings/setting_forms/_general_settings.html.erb",
+				"/home/user/Projects/bno_all/app/views/auction_categories/parts/_fake_bids_process.html.erb",
+				"/home/user/Projects/bno_all/app/views/member_area/items/new.html.erb",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/member_area/items.css.scss",
+				"/home/user/Projects/bno_all/app/views/member_area/items/_details_form.html.erb",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/mobile/mobile_styles.css.scss",
+				"/home/user/Projects/bno_all/app/views/offline_items/show.html.erb",
+				"/home/user/Projects/bno_all/app/views/member_area/shared/_center_listing_shared.html.erb",
+				"/home/user/Projects/bno_all/app/views/auctions/show_auction_item.html.erb",
+				"/home/user/Projects/bno_all/app/views/member_area/private_cabinet/index.html.erb",
+				"/home/user/Projects/bno_all/config/locales/en.yml",
+				"/home/user/Projects/bno_all/app/models/modules/auction_item_modules/state_machine.rb",
+				"/home/user/Projects/bno_all/app/views/admin/support_tickets/index.html.erb",
+				"/home/user/Projects/bno_all/README.rdoc",
+				"/home/user/Projects/bno_all/app/views/admin/features/show.html.erb",
+				"/home/user/Projects/bno_all/coverage/assets/0.7.1/application.css",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/admin/bootstrap_and_overrides.css.less",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/admin/auction_items.css.scss",
+				"/home/user/Projects/bno_all/app/views/resolution_center/open_tickets.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_resolution_center_show_page.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_comments_partial.html.erb",
+				"/home/user/Projects/bno_all/app/views/front_comments/create.js.erb",
+				"/home/user/Projects/bno_all/app/views/resolution_center/show.js.erb",
+				"/home/user/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/user/Projects/bno_all/app/views/admin/shared/_comments_partial.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_comments_listing.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_comment_info.html.erb",
+				"/home/user/Projects/bno_all/app/views/shared/_resolution_center_work_log_history.html.erb",
+				"/home/user/Projects/bno_all/.idea/encodings.xml",
+				"/home/user/Projects/bno_all/app/views/shared/_resolution_center_index.html.erb",
+				"/home/user/Projects/bno_all/app/views/resolution_center/_document_fields.html.erb",
+				"/home/user/Projects/bno_all/app/assets/stylesheets/resolution_center.css.scss",
+				"/home/user/Projects/bno_all/app/helpers/html_wrapper_helper.rb",
+				"/home/user/Projects/bno_all/app/models/document_prototype.rb",
+				"/home/user/Projects/bno_all/app/views/admin/support_tickets/edit.html.erb",
+				"/home/user/Projects/dittoadvertising-web/app/views/players/student_ambassadors/_form.html.erb",
+				"/home/user/Projects/bno_all/app/views/admin/reports/general_statistic.html.erb",
+				"/home/user/Projects/bno_all/lib/file_size_validator.rb",
+				"/home/user/Projects/bno_all/app/uploaders/document_uploader.rb",
+				"/home/user/Projects/bno_all/app/models/support_ticket.rb",
+				"/home/user/Projects/bno_all/1.png",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/home_controller.rb",
+				"/home/user/Projects/dittoadvertising-web/app/views/admin/bulk_messages/_form.html.erb",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/admin/bulk_messages_controller.rb",
+				"/home/user/Projects/dittoadvertising-web/app/assets/javascripts/admin/bulk_messages.js.coffee",
+				"/home/user/my/videor/config/database.yml",
+				"/home/user/my/videor/Gemfile",
+				"/home/user/Projects/dittoadvertising-web/Gemfile",
+				"/home/user/Projects/dittoadvertising-web/app/models/message.rb",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/services/users_controller.rb",
+				"/home/user/Projects/dittoadvertising-web/app/models/user.rb",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/services/campaigns_controller.rb",
+				"/home/user/Projects/dittoadvertising-web/app/views/services/slot_machine/_slot_machine.json.jbuilder",
+				"/home/user/Projects/dittoadvertising-web/app/views/services/users/_user.json.jbuilder",
+				"/home/user/Projects/dittoadvertising-web/app/views/services/campaigns/enroll_into_campaign.json.jbuilder",
+				"/home/user/Projects/dittoadvertising-web/app/controllers/services/messages_controller.rb",
+				"/home/user/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/user/noir/index.html",
+				"/home/user/Projects/labs/DSP/5/application.rb",
+				"/home/user/dsp5.rb",
+				"/home/user/noir/style.css",
+				"/home/user/twilio.rb",
+				"/media/user/ARCH_201302/application.rb",
+				"/home/user/Projects/store-after/app/controllers/orders_controller.rb",
+				"/home/user/Projects/store-after/Gemfile",
+				"/home/user/Projects/store-after/app/views/orders/show.html.erb",
+				"/home/user/Projects/store-after/app/pdfs/order_pdf.rb",
+				"/home/user/Downloads/Ditto Advertising Merchant Agreement.html",
+				"/home/user/Projects/store-after/app/controllers/application_controller.rb",
+				"/home/user/Projects/store-after/config/environment.rb",
+				"/home/user/Projects/store-after/config/application.rb",
+				"/home/user/Projects/store-after/config/routes.rb",
+				"/home/user/Projects/dittoadvertising-web/.idea/dictionaries/user.xml",
+				"/home/user/Projects/dittoadvertising-web/app/models/company.rb",
+				"/home/user/Projects/dittoadvertising-web/config/initializers/clickatell.rb",
+				"/home/user/Projects/dittoadvertising-web/config/deploy.rb",
+				"/home/user/Projects/dittoadvertising-web/Procfile",
+				"/home/user/Projects/dittoadvertising-web/app/models/slot_machine.rb",
+				"/home/user/Projects/dittoadvertising-web/app/models/slot_image.rb",
+				"/home/user/Projects/dittoadvertising-web/app/models/discount_entry.rb",
+				"/home/user/Projects/dittoadvertising-web/app/models/discount.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/user/Projects/bno_all/",
+					"/home/user/Projects/dittoadvertising-web/",
+					"/home/user/Projects/dittoadvertising-web/config/initializers,,/home/user/Projects/dittoadvertising-web/app/controllers,/home/user/Projects/dittoadvertising-web/",
+					"/home/user/Projects/dittoadvertising-web/config/initializers,,/home/user/Projects/dittoadvertising-web/app/controllers,/home/user/Projects/dittoadvertising-web/app/models",
+					"/home/user/Projects/dittoadvertising-web/config/initializers,,/home/user/Projects/dittoadvertising-web/app/controllers",
+					"/home/user/Projects/dittoadvertising-web/app",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"setTimeout",
+					"setTimeoutenable",
+					"setTimeout(enable",
+					"margin-top: 4px",
+					"margin-top: 4px;",
+					"marging-top: 4px",
+					"h4",
+					"member_area.",
+					"archive_with_refund",
+					"draft",
+					"dt",
+					"white-space:",
+					"strong",
+					".",
+					"admin_show_feature",
+					"230",
+					"dl-horizontal",
+					"close_comment_form",
+					"comment_text",
+					"$(this).parents('form').submit();",
+					"comment_text",
+					"additional_docs",
+					"errors:",
+					"error",
+					"my items page",
+					"merchant_agreement",
+					"chosen",
+					"Select Some Options",
+					"select some options",
+					"discount_id",
+					"binding.pry",
+					"next_combination",
+					"font_face",
+					"font_size",
+					".check",
+					"check",
+					"API",
+					"api",
+					"API",
+					"APP",
+					"runit",
+					"service",
+					"namespace :foreman do\n  desc 'Export the Procfile to Ubuntu upstart scripts'\n  task :export, :roles => :app do\n    run \"cd #{current_path} && #{sudo} bundle exec foreman export upstart /etc/init -a #{application} -u #{user} -l #{current_path}/log/foreman\"\n  end\n\n  desc \"Start the application services\"\n  task :start, :roles => :app do\n\n    run \"#{sudo} start #{application}\"\n  end\n\n  desc \"Stop the application services\"\n\n  task :stop, :roles => :app do\n    run \"#{sudo} stop #{application}\"\n\n  end\n\n  desc \"Restart the application services\"\n  task :restart, :roles => :app do\n\n    run \"#{sudo} start #{application} || #{sudo} restart #{application}\"\n  end\nend"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/user/Projects/bno_all"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/user/Projects/bno_all/app/views/member_area/private_cabinet/index.html.erb",
+							"settings":
+							{
+								"buffer_size": 2461,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1083,
+										1083
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/user/Projects/bno_all/app/views/member_area/shared/_center_listing_shared.html.erb",
+							"settings":
+							{
+								"buffer_size": 1152,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1152,
+										1152
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.git":
+			{
+				"height": 194.0
+			},
+			"output.vcs":
+			{
+				"height": 120.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"member_area/shared/center_listing_shared",
+						"app/views/member_area/shared/_center_listing_shared.html.erb"
+					],
+					[
+						"privatec/in",
+						"app/views/member_area/private_cabinet/index.html.erb"
+					],
+					[
+						"details_form",
+						"app/views/member_area/items/_details_form.html.erb"
+					],
+					[
+						"/member_area/items/new",
+						"app/views/member_area/items/new.html.erb"
+					],
+					[
+						"en.y",
+						"config/locales/en.yml"
+					],
+					[
+						"memar/prica/",
+						"app/views/member_area/private_cabinet/index.html.erb"
+					],
+					[
+						"pricabhtm",
+						"app/views/member_area/private_cabinet/index.html.erb"
+					],
+					[
+						"auitemht",
+						"app/views/auctions/show_auction_item.html.erb"
+					],
+					[
+						"offlineitem.htm",
+						"app/views/offline_items/show.html.erb"
+					],
+					[
+						"readme",
+						"README.rdoc"
+					],
+					[
+						"supti/in",
+						"app/views/admin/support_tickets/index.html.erb"
+					],
+					[
+						"aui/sta",
+						"app/models/modules/auction_item_modules/state_machine.rb"
+					],
+					[
+						"comment_info",
+						"app/views/shared/_comment_info.html.erb"
+					],
+					[
+						"comments_listing",
+						"app/views/shared/_comments_listing.html.erb"
+					],
+					[
+						"comments_partial",
+						"app/views/shared/_comments_partial.html.erb"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"resolution_center_work_log_history",
+						"app/views/shared/_resolution_center_work_log_history.html.erb"
+					],
+					[
+						"resolution_center_show_page",
+						"app/views/shared/_resolution_center_show_page.html.erb"
+					],
+					[
+						"rescenind",
+						"app/views/shared/_resolution_center_index.html.erb"
+					],
+					[
+						"open",
+						"app/views/resolution_center/open_tickets.html.erb"
+					],
+					[
+						"tic/ed",
+						"app/views/admin/support_tickets/edit.html.erb"
+					],
+					[
+						"doc",
+						"app/models/document_prototype.rb"
+					],
+					[
+						"uploader",
+						"app/uploaders/document_uploader.rb"
+					],
+					[
+						"ticke",
+						"app/models/support_ticket.rb"
+					],
+					[
+						"adm/genrsta",
+						"app/views/admin/reports/general_statistic.html.erb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"stuam/f",
+						"app/views/players/student_ambassadors/_form.html.erb"
+					],
+					[
+						"bulm/",
+						"app/views/admin/bulk_messages/_form.html.erb"
+					],
+					[
+						"bulmes/for",
+						"app/views/admin/bulk_messages/_form.html.erb"
+					],
+					[
+						"bul",
+						"app/controllers/admin/bulk_messages_controller.rb"
+					],
+					[
+						"_sloma",
+						"app/views/services/slot_machine/_slot_machine.json.jbuilder"
+					],
+					[
+						"_use",
+						"app/views/services/users/_user.json.jbuilder"
+					],
+					[
+						"enro",
+						"app/views/services/campaigns/enroll_into_campaign.json.jbuilder"
+					],
+					[
+						"mess",
+						"app/models/message.rb"
+					],
+					[
+						"use",
+						"app/models/user.rb"
+					],
+					[
+						"userco",
+						"app/controllers/services/users_controller.rb"
+					],
+					[
+						"mesco",
+						"app/controllers/services/messages_controller.rb"
+					],
+					[
+						"camco",
+						"app/controllers/services/campaigns_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"sermesscon",
+						"app/controllers/services/messages_controller.rb"
+					],
+					[
+						"usr",
+						"app/models/user.rb"
+					],
+					[
+						"user",
+						".idea/dictionaries/user.xml"
+					],
+					[
+						"com",
+						"app/models/company.rb"
+					],
+					[
+						"cli",
+						"config/initializers/clickatell.rb"
+					],
+					[
+						"dep",
+						"config/deploy.rb"
+					],
+					[
+						"usrb",
+						"app/models/user.rb"
+					],
+					[
+						"mes",
+						"app/models/message.rb"
+					],
+					[
+						"sm",
+						"app/models/slot_machine.rb"
+					],
+					[
+						"si",
+						"app/models/slot_image.rb"
+					],
+					[
+						"de",
+						"app/models/discount_entry.rb"
+					],
+					[
+						"disc",
+						"app/models/discount.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"window_id": 17,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

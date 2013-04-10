@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"CoffeeScript",
+		"Emmet",
+		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
+		"Git",
+		"Guard",
+		"Modific",
+		"Package Control",
+		"Rails Partial",
+		"Rails Related Files",
+		"RSpec",
+		"Ruby Slim",
+		"RubyTest",
+		"Sass",
+		"SourceTree",
+		"SourceTree.app Menu",
+		"SublimePeek",
+		"SyncedSideBar",
+		"Theme - Soda"
+	]
+}

@@ -1,0 +1,14 @@
+[
+  { "keys": ["<", "%"], "command": "insert_snippet", "args": {"contents": "<%${1:$SELECTION} %>$0"}, "context":
+    [
+      { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+      { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+      {
+        "key": "selector",
+        "operand": "(text.html.ruby | source.js.rails) - source",
+        "operator": "equal",
+        "match_all": true
+      }
+    ]
+  }
+]
